@@ -54,7 +54,7 @@ Clone this repository to your desired folder:
 
 ### Deployment
 
-N/A
+You can checkout the online version of the application by using this link, https://mylo16.github.io/
 
 
 ## 👥 Author <a name="authors"></a>
